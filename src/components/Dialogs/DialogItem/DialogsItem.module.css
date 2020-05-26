@@ -1,0 +1,27 @@
+.dialog {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 10px;
+    margin-bottom: 20px;
+}
+
+.dialog a {
+    text-decoration: none;
+    align-self: center;
+    justify-self: left;
+
+}
+
+.dialogsItem .active{
+color: gold;
+}
+
+
+
+.dialog img {
+    border-radius: 100%;
+    width: 40px;
+    align-self: center;
+    justify-self: right;
+}
+

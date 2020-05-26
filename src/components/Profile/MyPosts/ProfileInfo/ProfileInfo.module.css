@@ -1,0 +1,12 @@
+.item {
+    color: darkgreen;
+}
+.item img {
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+}
+
+.descriptionblock {
+    padding: 10px;
+}

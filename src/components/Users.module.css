@@ -1,0 +1,45 @@
+.usersPhoto {
+    width: 100px;
+    height: 100px;
+}
+
+.user div{
+    display:inline-block;
+
+}
+
+.usersPhotoAndButton div{
+    display: block;
+    text-align: center;
+}
+
+.userInfo {
+    padding: 10px;
+    border: black 1px solid;
+    border-radius: 15px;
+}
+
+.fullName_status{
+}
+
+.fullName_status div{
+
+    display: block;
+
+}
+
+.fullName {
+
+}
+
+.status {
+
+}
+
+.pageNumberActive {
+    font-weight: bold;
+
+}
+.pageNumbers {
+    padding: 5px;
+}
